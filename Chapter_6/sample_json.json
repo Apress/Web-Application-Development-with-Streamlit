@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Adam",
+        "DOB": "01/01/1990",
+        "Paygrade ID": "2"
+    },
+    {
+        "Name": "Sara",
+        "DOB": "01/01/1980",
+        "Paygrade ID": "1"
+    },
+    {
+        "Name": "Bob",
+        "DOB": "01/01/1970",
+        "Paygrade ID": "1"
+    },
+    {
+        "Name": "Alice",
+        "DOB": "01/01/2000",
+        "Paygrade ID": "3"
+    }
+]
